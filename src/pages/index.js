@@ -9,7 +9,7 @@ const IndexPage = () => (
       <meta name="copyright" content="Copyright by RedCarpet Tech Pvt Ltd. All Rights Reserved." />
 					<meta name="twitter:card" content="summary" />
 					<meta name="twitter:site" content="@RedcarpetUp" />
-					<meta name="twitter:title" content="RedCarpet - Get Instant Credit"/>
+					<meta name="twitter:title" content="Redsa"/>
 					<meta name="twitter:description" content="RedCarpet helps you buy any product from any site and pay back in installments! With RedCarpet you will:
 ✓ Never miss a deal from from any online site, due to lack of funds
 ✓ Save your cash for other uses
