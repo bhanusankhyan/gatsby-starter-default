@@ -17,7 +17,7 @@ const IndexPage = () => (
 ✓ Save your cash for other uses
 ✓ Increase the buying power of your pocket money
 ✓ Be able to buy an expensive product, without having to worry about paying it upfront." />
-				  <meta name="twitter:image" content={p} />
+				  <meta name="twitter:image" content={`${p}`} />
 
       </Helmet>
     <h1>Hi people</h1>
