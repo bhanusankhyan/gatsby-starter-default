@@ -2,6 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 import {Helmet} from 'react-helmet'
 
+
 const IndexPage = () => (
   <div>
     <Helmet>
@@ -15,7 +16,7 @@ const IndexPage = () => (
 ✓ Save your cash for other uses
 ✓ Increase the buying power of your pocket money
 ✓ Be able to buy an expensive product, without having to worry about paying it upfront." />
-				  <meta name="twitter:image" content="https://media.graphcms.com/CsHErWROTUedcVjgO2kI" />
+				  <meta name="twitter:image" content={"./ui.jpg"} />
 
       </Helmet>
     <h1>Hi people</h1>
